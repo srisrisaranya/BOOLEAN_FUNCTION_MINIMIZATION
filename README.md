@@ -57,8 +57,10 @@ and(u,w,y);
 or(f2,s,t,u);
 endmodule
 ```
+
 **Output:**
 ![image](https://github.com/srisrisaranya/BOOLEAN_FUNCTION_MINIMIZATION/assets/148516638/e23e71b3-57ec-4651-a591-10cd154a6fc1)
+
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
